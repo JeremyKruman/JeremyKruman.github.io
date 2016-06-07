@@ -61,4 +61,16 @@ header a:hover{
 
 }
 
+p a{
+	font-size: 2rem;
+	color: #5887B8;
+	margin: 0;
+	padding-left: 10px;
+
+}
+p a:hover
+{
+	color: black;
+}
+
 
