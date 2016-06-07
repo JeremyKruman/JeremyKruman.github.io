@@ -1,0 +1,64 @@
+body{
+	background-color: #8492A9;
+
+}
+
+header{
+	font-family: Verdana, sans-serif;
+
+}
+
+
+header>.row{
+
+	/*align-items: center;*/
+	background-color: #42677A;
+	display: flex;
+	border-radius: 10px;
+	
+}
+
+header h1{
+	color:#EFD28B;
+}
+
+header nav{
+	padding: 0px;
+	margin: 0px;
+	margin-top: 2em;
+	border: none;
+	
+}
+
+header a{
+	padding-left: 3em;
+	color: #8DBCE7;
+	font-size: 1.7em;
+
+}
+
+header a:hover{
+	color: #FFFFFF;
+
+}
+
+.jumbotron{
+	background-color: white;
+}
+
+.jumbotron h3
+{
+	text-align: center;
+	font-weight: bold;
+}
+
+#jeremy{
+	display: block;
+	margin: 0 auto;
+	border-radius: 10px;
+	float: right;
+	flex-wrap: wrap;
+
+}
+
+
