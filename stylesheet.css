@@ -87,3 +87,26 @@ object{
 	font-size: 1.5rem;
 	text-align: center;
 }
+#github
+{
+	text-align: center;
+}
+li
+{
+	font-size: 1.6rem;
+}
+li a
+{
+	font-size: 1.6rem;
+	padding-left: 4px;
+	color: #5887B8;
+}
+li a:hover{
+	color: black;
+}
+#restrict{
+	font-size: 1.75rem;
+}
+#restrict a{
+	font-size: 1.75rem;
+}
